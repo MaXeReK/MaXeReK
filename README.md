@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MaXeReK
-- 👀 I’m interested in programing, snowboarding, and football.
-- 🌱 I’m currently learning Javascript and PHP.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email or messenger.
+# Marcin Krzyżagórski
+[LinkedIn](https://www.linkedin.com/in/marcin-krzyzagorski/)
+
+
 
 <!---
 MaXeReK/MaXeReK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
